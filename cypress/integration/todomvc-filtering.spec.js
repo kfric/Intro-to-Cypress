@@ -30,7 +30,7 @@ describe('filtering', () =>{
   })
 })
 
-// interactive mode
+// interactive mode (made changes to scripts in package.json)
 // npm run cypress
 
 // test script
